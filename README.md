@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Proyecto final de la asignatura **Integración de Datos y Prospectiva**, desarrollado a partir de la integración y análisis de dos fuentes de información relacionadas con eventos de riesgo operacional.
+Proyecto final en grupo de la asignatura **Integración de Datos y Prospectiva**, desarrollado a partir de la integración y análisis de dos fuentes de información relacionadas con eventos de riesgo operacional.
 
 El proyecto utiliza una base interna correspondiente a **fallas tecnológicas en canales electrónicos de una entidad FINTECH** y una base externa asociada a **eventos operacionales de una terminal portuaria**. A partir de estas fuentes se busca identificar patrones comunes, evaluar la consistencia de los datos y desarrollar un análisis prospectivo que apoye la toma de decisiones frente a la gestión del riesgo operacional.
 
@@ -95,6 +95,12 @@ El análisis se desarrolla mediante diferentes etapas:
 - Matplotlib
 - Seaborn
 - SciPy
+
+## Integrantes
+
+- María Del Mar Hernández
+- Ricardo D Amato Cova
+- Santiago Giraldo Echeverry
 
 ## Estructura del repositorio
 
